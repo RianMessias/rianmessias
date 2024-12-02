@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Sobre Mim:
+🔭 Atualmente estou trabalhando em  
+👯 Procuro colaborar em  
+🤝 Estou em busca de ajuda com  
+🌱 Atualmente estou aprendendo  
+💬 Pergunte-me sobre  
+⚡ Curiosidade  
+
 
 
 # 💻 Tech Stack:
