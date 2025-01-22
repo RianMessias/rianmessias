@@ -1,10 +1,12 @@
-# 💫 Sobre Mim:  
-🔭 Atualmente, estou trabalhando em projetos de desenvolvimento web.<br>  
-👯 Procuro colaborar em projetos open source ou que envolvam tecnologias web.<br>  
-🤝 Estou em busca de ajuda para aprimorar minhas habilidades em frameworks modernos.<br>  
-🌱 Atualmente, estou aprendendo novas tecnologias e boas práticas de desenvolvimento web.<br>  
-💬 Pergunte-me sobre programação e meu aprendizado como desenvolvedor.<br>  
-⚡ Curiosidade: Sempre encontro soluções criativas para problemas complexos!  
+## 💫 Sobre Mim
+
+- 🔭 **Atualmente, desenvolvendo projetos incríveis na web**.
+- 👯 **Entusiasta de colaborações** em projetos open source e tecnologias web.
+- 🤝 **Constantemente aprimorando minhas habilidades** em frameworks modernos.
+- 🌱 **Explorador incansável** de novas tecnologias e boas práticas de desenvolvimento web.
+- 💬 **Adoro discutir sobre** programação e compartilhar meu aprendizado como desenvolvedor.
+- ⚡ **Curiosidade:** Tenho um talento especial para **encontrar soluções criativas para problemas complexos**!
+ 
 
 
 
