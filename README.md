@@ -29,6 +29,3 @@
 
 ### 🔝 Repositório Mais Contribuído:
 ![Repositório Mais Contribuído](https://github-contributor-stats.vercel.app/api?username=RianMessias&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RianMessias&i
