@@ -1,60 +1,53 @@
-# 💫 Sobre Mim:
+<div align="center">
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🔭 **Atualmente:** Desenvolvendo projetos inovadores na web e entregando soluções otimizadas.<br>👯 **Entusiasta:** Apaixonado por colaborações em projetos open source e tecnologias web modernas.<br>🤝 **Crescimento:** Sempre aprimorando minhas habilidades em frameworks e bibliotecas atuais.<br>🌱 **Explorador:** Em busca constante por novas tecnologias e boas práticas de desenvolvimento.<br>💬 **Compartilhar é crescer:** Amo trocar conhecimentos, aprender com a comunidade e discutir inovações.<br>⚡ **Curiosidade:** Transformo ideias complexas em soluções funcionais com criatividade e eficiência.
+<br>
 
----
+<div align="center">
+<!-- IMPORTANTE: Troque o "#" pelo link do seu perfil no LinkedIn -->
+<a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+</div>
 
-## 🌐 Redes Sociais:
+<br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/og.meno/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rian-messias-9b007b340/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/nagataOg) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@nagatathebestt)
+<!-- IMPORTANTE: Troque "SEU_USUARIO_AQUI" pelo seu usuário do GitHub nos dois lugares -->
 
----
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_AQUI.SEU_USUARIO_AQUI&"  />
+</div>
 
-## 💻 Tecnologias e Ferramentas:
+<h1 align="center">Olá, eu sou o Rian! 👋</h1>
 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<h3 align="left">👨🏻‍💻 Sobre Mim</h3>
+<p align="left">
+Tenho 22 anos e atuo como <b>Analista de Operações na Black101</b>.<br><br>
 
----
+🔭 Meu objetivo é evoluir profissionalmente na empresa, aplicando meus conhecimentos para otimizar processos.<br>
 
-## 🚀 Meu Processo de Trabalho:
+🌱 Atualmente, estou focado em aprender <b>SQL</b> para aprofundar minha capacidade de análise de dados.<br>
 
-1. **Planejamento Estratégico:** Análise das necessidades e objetivos do cliente.
-2. **Desenvolvimento Ágil:** Utilizo metodologias que garantem entregas rápidas e eficazes.
-3. **Otimização Constante:** Foco em performance, SEO e acessibilidade.
-4. **Entrega e Feedback:** Iterações constantes para alcançar a melhor versão do projeto.
+⚡ Sou apaixonado por tecnologia e busco constantemente novas formas de resolver problemas de maneira eficiente.
+</p>
 
----
+<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
 
-## 📊 Estatísticas do GitHub:
+<b>Habilidades Atuais:</b>
 
-![](https://github-readme-stats.vercel.app/api?username=RianMessias&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RianMessias&theme=radical&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RianMessias&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height="40" alt="wordpress logo"  />
+</div>
 
----
-
-## 🏆 Troféus do GitHub:
-
-![](https://github-profile-trophy.vercel.app/?username=RianMessias&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Inspiração para Desenvolvedores:
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-
-### 🔝 Repositórios em Destaque:
-
-![](https://github-contributor-stats.vercel.app/api?username=RianMessias&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=RianMessias&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+<b>Estudando:</b>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
+</div>
