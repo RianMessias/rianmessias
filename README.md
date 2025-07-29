@@ -6,7 +6,7 @@
 
 <div align="center">
 <!-- IMPORTANTE: Troque o "#" pelo link do seu perfil no LinkedIn -->
-<a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<a href="https://www.linkedin.com/in/rian-messias-9b007b340/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
 
 <br>
