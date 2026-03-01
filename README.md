@@ -1,53 +1,75 @@
 <div align="center">
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<br>
+<br />
 
 <div align="center">
-<!-- IMPORTANTE: Troque o "#" pelo link do seu perfil no LinkedIn -->
-<a href="https://www.linkedin.com/in/rian-messias-9b007b340/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/rian-messias-9b007b340/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
 </div>
 
-<br>
-
-<!-- IMPORTANTE: Troque "SEU_USUARIO_AQUI" pelo seu usuário do GitHub nos dois lugares -->
+<br />
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_AQUI.SEU_USUARIO_AQUI&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RianMessias.RianMessias&" />
 </div>
 
-<h1 align="center">Olá, eu sou o Rian! 👋</h1>
+<h1 align="center">Olá, eu sou o Rian Messias! 👨‍💻</h1>
 
-<h3 align="left">👨🏻‍💻 Sobre Mim</h3>
-<p align="left">
-Tenho 22 anos e atuo como <b>Analista de Operações na Black101</b>.<br><br>
+---
 
-🔭 Meu objetivo é evoluir profissionalmente na empresa, aplicando meus conhecimentos para otimizar processos.<br>
+## 👨🏻‍💻 Sobre Mim
 
-🌱 Atualmente, estou focado em aprender <b>SQL</b> para aprofundar minha capacidade de análise de dados.<br>
+Olá, meu nome é **Rian Messias**, tenho 22 anos e sou um **Desenvolvedor Full Stack e Analista de Operações**.
 
-⚡ Sou apaixonado por tecnologia e busco constantemente novas formas de resolver problemas de maneira eficiente.
-</p>
+- 💻 Atuo com as tecnologias **.NET C#, Angular, SQL** e tenho experiência na área de **operações e análise de processos**.
+- 🔭 Meu objetivo é **desenvolver soluções eficientes** e crescer como desenvolvedor, aplicando metodologias que otimizem resultados.
+- 🌱 Atualmente, estou aprendendo mais sobre **SQL** e aprofundando-me em **banco de dados**.
+- ⚡ Sou apaixonado por **tecnologia** e por resolver problemas de forma criativa e eficiente.
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+---
 
-<b>Habilidades Atuais:</b>
+## 🛠️ Tecnologias e Ferramentas
+
+**Habilidades Atuais:**
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" />
 </div>
 
-<br>
-<b>Estudando:</b>
+<br />
+
+**Também Trabalho com:**
+
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height="40" alt="WordPress logo" />
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+- 💻 [LinkedIn](https://www.linkedin.com/in/rian-messias-9b007b340/)
+- 📫 Email: rian.messias@example.com
+
+---
+
+<div align="center">
+  Feito com ❤️ por Rian Messias
 </div>
