@@ -12,29 +12,32 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RianMessias.RianMessias&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RianMessias.rianmessias" />
 </div>
 
 <h1 align="center">Olá, eu sou o Rian Messias! 👨‍💻</h1>
+<p align="center">
+  Desenvolvedor em formação (ADS) com experiência em operações, melhoria de processos e foco em resultado.
+</p>
 
 ---
 
-## 👨🏻‍💻 Sobre Mim
+## Sobre mim
 
-Desenvolvedor Júnior em formação com experiência profissional como **Analista de Operações** na [Black101](https://www.black101.com.br/). Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** e buscando minha primeira oportunidade como desenvolvedor, tanto em back-end quanto em front-end.
+Atuo como **Analista de Operações** na [Black101](https://www.black101.com.br/) e estou em transição para minha primeira oportunidade como **Desenvolvedor Júnior**.
 
-No meu trabalho atual, mapeei **gargalos no fluxo de atendimento** e implementei melhorias que **reduziram em ~30% o volume de tickets recorrentes** e diminuíram o tempo médio de resposta, aumentando significativamente a satisfação dos usuários internos. 
+No cenário atual, mapeei gargalos no fluxo de atendimento e implementei melhorias que reduziram em aproximadamente **30%** os tickets recorrentes, além de reduzir o tempo médio de resposta.
 
-### 🎯 Meus Objetivos
+### Objetivos atuais
 
-- 🚀 Obter minha primeira oportunidade como **Desenvolvedor Júnior**
-- 📚 Evoluir tecnicamente em **back-end e front-end**
-- 💡 Contribuir com visão de processo e foco em resultado
-- 🔧 Aprimorar habilidades em desenvolvimento web e boas práticas de código
+- Conquistar minha primeira oportunidade como **Desenvolvedor Júnior**
+- Evoluir tecnicamente em **back-end** e **front-end**
+- Aplicar visão de processo para gerar impacto em produto e operação
+- Consolidar boas práticas de desenvolvimento e qualidade de código
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
@@ -66,53 +69,53 @@ No meu trabalho atual, mapeei **gargalos no fluxo de atendimento** e implementei
 
 ---
 
-## 💼 Experiência Profissional
-
-### **Analista de Operações** | Black101 | 2023 - Presente
-- Suporte direto a clientes e parceiros
-- Melhoria contínua de processos operacionais
-- Análise de FIDC (Fundos de Investimento em Direitos Creditórios)
-- Documentação de processos e automações
-- Redução de ~30% em tickets recorrentes
-
----
-
-## 🎓 Educação
-
-- **Análise e Desenvolvimento de Sistemas (ADS)** | Em andamento
-- **AWS Database Offerings** | Amazon Web Services (Concluído em Agosto de 2025)
-
----
-
-## 🎯 Competências Principais
+## Competências principais
 
 - **Linguagens:** C#, JavaScript, TypeScript, SQL
 - **Frontend:** Angular, React, HTML5, CSS3
 - **Backend:** .NET, C#
-- **Bancos de Dados:** MySQL, SQL Server, SQLite
+- **Banco de dados:** MySQL, SQL Server, SQLite
 - **Ferramentas:** Git, GitHub, VS Code, Visual Studio
-- **Soft Skills:** Resolução de problemas, Lógica de programação, Análise de processos, Comunicação clara
+- **Soft skills:** Resolução de problemas, análise de processos, comunicação clara, pensamento lógico
 
 ---
 
-## 📌 Destaques
+## Experiência profissional
 
-✅ **Certificado em AWS Database Offerings** pela Amazon Web Services  
-✅ **500+ conexões** no LinkedIn  
-✅ **Experiência prática** com análise de processos e operações  
-✅ **Familiaridade com IA** para desenvolvimento (Claude, OpenAI, GitHub Copilot)  
-
----
-
-## 🔍 Status Atual
-
-🔎 **Buscando oportunidade como Desenvolvedor Júnior** em São Paulo, SP  
-💬 **Disponível para conversas** sobre projetos, mentorias e parcerias  
-📧 **Aberto a indicações e oportunidades** na área de tecnologia
+### Analista de Operações | Black101 | 2023 - atual
+- Suporte direto a clientes e parceiros
+- Melhoria contínua de processos operacionais
+- Análise de FIDC (Fundos de Investimento em Direitos Creditórios)
+- Documentação de processos e automações
+- Redução aproximada de 30% de tickets recorrentes
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Formação e certificações
+
+- **Análise e Desenvolvimento de Sistemas (ADS)** | Em andamento
+- **AWS Database Offerings** | Amazon Web Services (concluído em agosto de 2025)
+
+---
+
+## Destaques
+
+- Certificação em AWS Database Offerings
+- Mais de 500 conexões no LinkedIn
+- Experiência prática com análise de processos e operações
+- Familiaridade com IA no desenvolvimento (Claude, OpenAI e GitHub Copilot)
+
+---
+
+## Status atual
+
+- Buscando oportunidade como **Desenvolvedor Júnior** em São Paulo, SP
+- Disponível para conversas sobre projetos, mentorias e parcerias
+- Aberto a indicações e oportunidades em tecnologia
+
+---
+
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianMessias&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -121,13 +124,13 @@ No meu trabalho atual, mapeei **gargalos no fluxo de atendimento** e implementei
 
 ---
 
-## 💬 Fale Comigo
+## Contato
 
-Estou sempre aberto a novas conexões, oportunidades de aprendizado e discussões sobre desenvolvimento de software!
+Estou aberto a novas conexões e oportunidades de aprendizado em desenvolvimento de software.
 
-- 📱 **LinkedIn:** [Rian Messias](https://www.linkedin.com/in/rian-messias-9b007b340/)
-- 💻 **GitHub:** [RianMessias](https://github.com/RianMessias)
-- 📧 **Buscando:** Oportunidades como Desenvolvedor Júnior
+- **LinkedIn:** [Rian Messias](https://www.linkedin.com/in/rian-messias-9b007b340/)
+- **GitHub:** [RianMessias](https://github.com/RianMessias)
+- **Foco:** Oportunidades como Desenvolvedor Júnior
 
 ---
 
