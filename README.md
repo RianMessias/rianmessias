@@ -1,186 +1,139 @@
 <div align="center">
-  <h1>Olá, eu sou o Rian Messias 👋</h1>
+  <h1>Rian Messias</h1>
+
+  <h3>Analista de Suporte de Sistemas Pleno | Foco em Desenvolvimento .NET e Angular</h3>
 
   <p>
-    <strong>Analista de Suporte de Sistemas Pleno | Desenvolvimento Web com C#, .NET, Angular e SQL</strong>
+    Profissional de tecnologia com experiência em sistemas financeiros, análise de sistemas,
+    integrações e desenvolvimento web.
   </p>
 
   <p>
-    Experiência em sistemas financeiros, FIDC, análise de processos, integrações e resolução de problemas.
+    <a href="https://www.linkedin.com/in/rian-messias-9b007b340/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Rian Messias" />
+    </a>
+    <a href="https://github.com/RianMessias">
+      <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub de Rian Messias" />
+    </a>
+    <a href="https://www.riandev.com.br">
+      <img src="https://img.shields.io/badge/Portfólio-006D77?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfólio de Rian Messias" />
+    </a>
   </p>
-
-  <a href="https://www.linkedin.com/in/rian-messias-9b007b340/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/RianMessias" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" alt="GitHub" />
-  </a>
-
-  <a href="https://www.riandev.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=googlechrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="28" alt="Portfólio" />
-  </a>
 </div>
 
 ---
 
 ## Sobre mim
 
-Sou profissional de tecnologia com experiência em **suporte, análise e implantação de sistemas financeiros**, atuando na conexão entre usuários, operações e equipes de desenvolvimento.
+Atuo como **Analista de Suporte de Sistemas Pleno**, conectando clientes, operação, suporte e desenvolvimento para investigar incidentes, esclarecer regras de negócio e apoiar a evolução de sistemas.
 
-Minha experiência inclui investigação de incidentes, reprodução e documentação de bugs, levantamento de requisitos, testes funcionais, consultas SQL, integrações bancárias e processos relacionados a **FIDC, CNAB, remessas e retornos bancários**.
+Minha experiência reúne troubleshooting, reprodução e documentação de bugs, levantamento de requisitos, criação de tarefas e critérios de aceite, testes funcionais, validação de funcionalidades e consultas SQL. Também tenho conhecimento prático de **FIDC, arquivos CNAB, remessas, retornos e integrações bancárias**.
 
-Atualmente, direciono essa experiência de negócio e resolução de problemas para o desenvolvimento de **aplicações web e APIs**, com foco em **C#, .NET, Angular, TypeScript e SQL Server**.
-
----
-
-## Experiência que levo para o desenvolvimento
-
-* Investigação e diagnóstico de problemas em sistemas financeiros
-* Tradução de regras de negócio em requisitos e tarefas técnicas
-* Reprodução, documentação e acompanhamento de bugs
-* Execução de testes funcionais e validação de novas funcionalidades
-* Experiência com FIDC, CNAB, remessas, retornos e integrações bancárias
-* Consultas e análise de dados utilizando SQL
-* Comunicação entre clientes, operações, suporte e desenvolvimento
-* Participação em melhorias que contribuíram para reduzir cerca de 30% dos tickets recorrentes
+Aplico essa base técnica e de negócio no desenvolvimento de aplicações web e APIs. Meu foco atual está em **C#, .NET, ASP.NET Core, Angular, TypeScript e SQL Server**.
 
 ---
 
-## Tecnologias e ferramentas
+## Experiência aplicada à tecnologia
+
+- Diagnóstico e resolução de problemas em sistemas financeiros
+- Investigação, reprodução e documentação de bugs
+- Levantamento e detalhamento de requisitos funcionais
+- Criação de critérios de aceite e tarefas técnicas
+- Execução de testes funcionais
+- Validação de novas funcionalidades
+- Consultas e análise de dados com SQL
+- Processamento e análise de arquivos CNAB
+- Experiência com remessas e retornos bancários
+- Integrações entre sistemas
+- Comunicação entre clientes, operação, suporte e desenvolvimento
+
+---
+
+## Tecnologias
 
 ### Desenvolvimento
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="42" alt="C#" />
-  <img width="10" />
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css&amp;theme=dark&amp;perline=7"
+    alt="C#, .NET, Angular, TypeScript, JavaScript, HTML e CSS"
+  />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="42" alt=".NET" />
-  <img width="10" />
+### Banco de dados
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="42" alt="Angular" />
-  <img width="10" />
+<p>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    height="48"
+    alt="SQL Server"
+    title="SQL Server"
+  />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
-  <img width="10" />
+### Ferramentas
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
-  <img width="10" />
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode&amp;theme=dark&amp;perline=5"
+    alt="Git, GitHub, Docker, Visual Studio e Visual Studio Code"
+  />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="42" alt="HTML5" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="42" alt="CSS3" />
-</div>
-
-### Banco de dados e ferramentas
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" alt="SQL Server" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" alt="GitHub" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="42" alt="Docker" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="42" alt="Visual Studio" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="Visual Studio Code" />
-</div>
-
----
-
-## Áreas de estudo
-
-* Desenvolvimento de APIs REST com C# e .NET
-* Desenvolvimento front-end com Angular e TypeScript
-* Modelagem e consultas em bancos de dados relacionais
-* Arquitetura de aplicações e separação de responsabilidades
-* Testes, tratamento de erros e boas práticas de código
-* Integração entre aplicações, APIs e bancos de dados
+<p>
+  <img src="https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/Sistemas%20financeiros-334155?style=for-the-badge" alt="Sistemas financeiros" />
+  <img src="https://img.shields.io/badge/CNAB-7C3AED?style=for-the-badge" alt="CNAB" />
+</p>
 
 ---
 
 ## Projetos em destaque
 
-### TraceIDE
+### [TraceIDE](https://github.com/RianMessias/traceide)
 
-Aplicação web criada para facilitar a análise de stack traces durante o processo de debugging.
+Aplicação web local criada para agilizar a leitura de stack traces durante o processo de debugging.
 
-O projeto realiza identificação de linguagem, extração do erro principal, separação dos frames da aplicação, normalização do stack trace e apresentação de possíveis ações para investigação.
+- Detecta stack traces de Node.js/JavaScript, Python, Java e .NET
+- Extrai a linha principal do erro e identifica o frame mais provável da causa
+- Separa frames da aplicação e filtra bibliotecas comuns
+- Normaliza o stack trace removendo linhas duplicadas
+- Sugere ações de investigação com base no erro
 
-**Tecnologias:** JavaScript, HTML, CSS e testes com Node.js.
+### [Portfólio pessoal](https://github.com/RianMessias/portf-lio)
 
-[Ver repositório](https://github.com/RianMessias/traceide)
+Portfólio responsivo para apresentar projetos, experiência profissional, habilidades e formas de contato.
 
----
-
-### Portfólio pessoal
-
-Portfólio responsivo desenvolvido para apresentar meus projetos, experiências profissionais, habilidades e formas de contato.
-
-**Tecnologias:** TypeScript, Vite, Tailwind CSS, HTML e JavaScript.
-
-[Ver repositório](https://github.com/RianMessias/portf-lio) · [Acessar portfólio](https://www.riandev.com.br)
+[Ver o código](https://github.com/RianMessias/portf-lio) · [Acessar o portfólio](https://www.riandev.com.br)
 
 ---
 
-## Formação
+## GitHub Metrics
 
-* **Análise e Desenvolvimento de Sistemas** — em andamento
-* **AWS Database Offerings** — Amazon Web Services
+Dashboard configurado para reunir informações do perfil, atividade, contribuições, linguagens, hábitos de commits, tópicos e repositórios em destaque.
+
+<picture>
+  <img
+    src="/github-metrics.svg"
+    alt="Métricas do GitHub de Rian Messias"
+    width="100%"
+  />
+</picture>
 
 ---
 
 ## Objetivo profissional
 
-Busco uma oportunidade como **Desenvolvedor Júnior**, principalmente em projetos que utilizem **C#, .NET, Angular, TypeScript e SQL**.
+Busco uma oportunidade como **Desenvolvedor Júnior** para transformar minha experiência com suporte, sistemas financeiros, regras de negócio e investigação de problemas em software confiável e bem estruturado.
 
-Quero aplicar minha experiência com sistemas, regras de negócio e resolução de problemas na construção de aplicações confiáveis, organizadas e úteis para os usuários.
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=RianMessias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianMessias&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br"
- alt="Linguagens mais utilizadas"
-/>
-
-</div>
+Meu objetivo é atuar na construção de **APIs REST com C# e .NET**, interfaces com **Angular e TypeScript** e soluções integradas ao **SQL Server** e a outros bancos de dados relacionais. Quero aprofundar, na prática, arquitetura de aplicações, testes, boas práticas de desenvolvimento e integrações entre APIs, sistemas e bancos de dados.
 
 ---
 
 ## Contato
 
-<div align="center">
-  <p>
-    Entre em contato para conversar sobre desenvolvimento, sistemas financeiros ou oportunidades profissionais.
-  </p>
+Para conversar sobre desenvolvimento, sistemas financeiros ou oportunidades profissionais:
 
-  <a href="https://www.linkedin.com/in/rian-messias-9b007b340/">
-    LinkedIn
-  </a>
-  •
-  <a href="https://github.com/RianMessias">
-    GitHub
-  </a>
-  •
-  <a href="https://www.riandev.com.br">
-    Portfólio
-  </a>
-</div>
+- [LinkedIn](https://www.linkedin.com/in/rian-messias-9b007b340/)
+- [GitHub](https://github.com/RianMessias)
+- [Portfólio](https://www.riandev.com.br)
