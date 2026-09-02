@@ -4,7 +4,6 @@ Analista de Suporte de Sistemas Pleno em transição para desenvolvimento web, c
 
 Tenho experiência prática com sistemas financeiros, FIDC, integrações bancárias e resolução de problemas — e estou aplicando essa vivência de negócio no desenvolvimento de aplicações e APIs.
 
-**Buscando oportunidade como Desenvolvedor Júnior.**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rian-messias-9b007b340/)
 - 🐙 [GitHub](https://github.com/RianMessias)
