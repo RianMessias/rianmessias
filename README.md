@@ -32,8 +32,3 @@ Tenho experiência prática com sistemas financeiros, FIDC, integrações bancá
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
-
-## Projetos
-
-- **[TraceIDE](https://github.com/RianMessias/traceide)** — ferramenta web para analisar stack traces durante debugging.
-- **[Portfólio pessoal](https://github.com/RianMessias/portf-lio)** — site com meus projetos e experiência.
